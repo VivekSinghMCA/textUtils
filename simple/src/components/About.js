@@ -62,7 +62,7 @@ function About(props) {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={myToggle}>
-              TextUtils gives you a way to analyze your text quickly and efficiently. Be it word count, character count or many more.
+              TextUtils gives you a way to analyze your text quickly and efficiently. Be it word count, character count, manipulate text according to provided features or many more.
             </div>
           </div>
         </div>
